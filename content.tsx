@@ -1,2 +1,2 @@
 console.log("sndtd")
-console.log("ibsov")
+console.log("bomod")
